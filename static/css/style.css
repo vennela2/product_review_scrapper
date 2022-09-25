@@ -1,5 +1,5 @@
 body {
-  background-color: #cec4c4  ;
+  background-color: #fff5ee  ;
 }
 body * {
   box-sizing: border-box;
@@ -34,7 +34,7 @@ table {
   width: 100%;
 }
 table td, table th {
-  color: #2b686e;
+  color: #dbab89;
   padding: 10px;
 }
 table td {
